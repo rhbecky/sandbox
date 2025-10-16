@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sandbox/static/css/main.0b9c4dd4.css",
+    "main.js": "/sandbox/static/js/main.fc845c34.js",
+    "static/js/453.fd2ff802.chunk.js": "/sandbox/static/js/453.fd2ff802.chunk.js",
+    "index.html": "/sandbox/index.html",
+    "main.0b9c4dd4.css.map": "/sandbox/static/css/main.0b9c4dd4.css.map",
+    "main.fc845c34.js.map": "/sandbox/static/js/main.fc845c34.js.map",
+    "453.fd2ff802.chunk.js.map": "/sandbox/static/js/453.fd2ff802.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b9c4dd4.css",
+    "static/js/main.fc845c34.js"
+  ]
+}
